@@ -1,0 +1,28 @@
+name: MikeMcTaggart
+favicon: null
+layout_spectrum: 0.7272879276424646
+typography_spectrum: 0.05204243608750403
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3455420322716236
+  lightness: 0.015393741428852081
+  saturation: 0.41197043913416564
+  rhythmicContrast: 0.5851075307000428
+purpose: []
