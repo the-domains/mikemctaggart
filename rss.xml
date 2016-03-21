@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MikeMcTaggart]]></title>
+        <description><![CDATA[MikeMcTaggart]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 15:04:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Point-of-Sale based data breaches]]></title>
+            <description><![CDATA[<article><h1>Point-of-Sale based data breaches</h1><p>E-Commerce - Is it safer than retail?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbffb41e-687c-4c66-8d14-c86c432c2f16.jpg"></article>]]></description>
+            <link>undefinedpoint-of-sale-based-data-breaches/index.html</link>
+            <guid isPermaLink="false">3e9e8f83-444b-4311-8062-ee09a8e34855</guid>
+            <pubDate>Mon, 21 Mar 2016 15:04:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
